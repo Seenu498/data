@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Sarali Swaras",
+    "body": "This is the description of Song Title 1.",
+    "artist": "Artist Name"
+  },
+  {
+    "id": 2,
+    "title": "Shreenatha guruji-geetham",
+    "body": "This is the description of Song Title 2.",
+    "artist": "Another Artist"
+  },
+  {
+    "id": 2,
+    "title": "Alankara",
+    "body": "This is the description of Song Title 2.",
+    "artist": "Another Artist"
+  },
+  {
+    "id": 2,
+    "title": "Paduma nabha - geetham",
+    "body": "This is the description of Song Title 2.",
+    "artist": "Another Artist"
+  },
+  {
+    "id": 2,
+    "title": "Ramajanardhana-note-5",
+    "body": "This is the description of Song Title 2.",
+    "artist": "Another Artist"
+  }
+]
